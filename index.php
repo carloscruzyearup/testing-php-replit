@@ -1,5 +1,7 @@
 <?php
 
+echo '<h1>Calculator</h1>';
+
 include 'Calculator.php';
 
 $myCalc = new Calculator();
